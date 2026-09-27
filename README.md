@@ -1,4 +1,4 @@
-# Error-Aware Knowledge Tracing
+# Extrinsic Misconception-Aware Knowledge Tracing
 
 This repository investigates whether misconception annotations improve Bayesian
 Knowledge Tracing (BKT) in tutor–student mathematics dialogues. It reproduces a
@@ -399,9 +399,3 @@ The baseline experiment follows the MathDial BKT evaluation reported in:
 
 When using this repository, cite both the upstream paper/dataset and this
 implementation as appropriate.
-
-## License
-
-No software license is currently included in this repository. Add an explicit
-license before distributing or reusing the code outside its present research
-context.
